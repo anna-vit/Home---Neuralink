@@ -31,3 +31,9 @@ body {
     height: 100%;
     line-height: 1;
 }
+
+body {
+    font-family: Roboto;
+    font-size: 12px;
+    color: #FFF;
+}
